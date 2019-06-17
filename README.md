@@ -1,5 +1,5 @@
 # Optical-illusion
-Optical illusion
+Optical illusion (my first funny projekt)
 ### Date created
 Last Version 17. June 2018
 
